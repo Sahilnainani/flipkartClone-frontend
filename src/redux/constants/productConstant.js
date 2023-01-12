@@ -1,0 +1,8 @@
+
+export const GET_PRODUCTS_SUCCESS='getProductSuccess'
+export const GET_PRODUCTS_FAIL='getProductFail'
+
+export const GET_PRODUCTS_DETAILS_REQUEST='getProductDetailsRequest'
+export const GET_PRODUCTS_DETAILS_REQUEST_SUCCESS='getProductDetailsRequestSuccess'
+export const GET_PRODUCTS_DETAILS_REQUEST_FAIL='getProductDetailsRequestFail'
+export const GET_PRODUCTS_DETAILS_RESET='getProductDetailsReset'
